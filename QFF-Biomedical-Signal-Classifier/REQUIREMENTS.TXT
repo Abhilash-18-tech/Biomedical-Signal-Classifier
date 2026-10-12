@@ -1,0 +1,11 @@
+qiskit
+qiskit-aer
+qiskit-machine-learning
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+networkx
+wfdb
+joblib
